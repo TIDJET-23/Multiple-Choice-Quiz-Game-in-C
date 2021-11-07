@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609450065 source:c:\users\windows_10\documents\jeux_de_culteur\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636309205 source:d:\mes programme\c\jeux_de_culteur\main.c
+	<stdio.h>
+	<stdlib.h>
+
