@@ -8,8 +8,8 @@ This project is a C-based game that asks a series of multiple-choice questions. 
 - **Immediate Feedback**: The game indicates whether the selected answer is correct or incorrect after each question.
 
 ## Compilation and Execution
-1. Clone this repository: `git clone https://github.com/your-username/repository-name.git`
-2. Navigate to the project folder: `cd repository-name`
+1. Clone this repository
+2. Navigate to the project folder
 3. Compile the project: `gcc -o quizgame quizgame.c`
 4. Run the game: `./quizgame`
 
